@@ -11,4 +11,7 @@ const piggybank = {
         this.lid = lidStatus;
     },
 
-}
+};
+
+console.log("The piggybank object:", piggybank);
+console.log("The coinNum value:", piggybank.coinNum);
