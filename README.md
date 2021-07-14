@@ -1,13 +1,12 @@
 # JavaScript Essential Training
 
-## Description 
+## Description
 
-This is the repository was cloned from the [JavaScript Essential Training](https://github.com/LinkedInLearning/javascript-essential-training-2832077) repository. Here are the lessons completed from the videos. 
+This is the repository was cloned from the [JavaScript Essential Training](https://github.com/LinkedInLearning/javascript-essential-training-2832077) repository. Here are the lessons completed from the videos.
 
-## Linkedin Learning 
+## Linkedin Learning
 
 [Here is the link](https://www.linkedin.com/learning/javascript-essential-training/javascript-first-contact) to the video lessons.
-
 
 ### Instructor
 
