@@ -37,5 +37,6 @@ const smallPiggybank = new Piggybank(
   "white",
   150,
   1,
-  false
+  false,
+  "December 5, 2018 15:00:00 PST"
 );
